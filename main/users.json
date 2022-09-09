@@ -1,13 +1,8 @@
 [
     {
-        "name": "姓名1",
-        "stucode": "学号",
-        "password": "密码",
-        "schoolcode": "学校代码"
-    },{
-        "name": "姓名2",
-        "stucode": "学号",
-        "password": "密码",
-        "schoolcode": "学校代码"
+        "name": "王泽冰",
+        "stucode": "2212114204",
+        "password": "290418",
+        "schoolcode": "xmut"
     }
 ]
